@@ -18,7 +18,7 @@ To verify Thevenin’s theorem practically and theoretically for the given DC ci
 
 6.	Multimeter	---	1
 
-**THEORY:**
+
 
 **THEVENIN’S THEOREM:**
 
@@ -49,7 +49,10 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+<img width="1068" height="1600" alt="WhatsApp Image 2026-05-24 at 2 04 16 PM" src="https://github.com/user-attachments/assets/b0321e0f-573a-46fe-95bb-e5cd01b15ee2" />
 
+**tabulation and calculation**
+<img width="1080" height="1509" alt="WhatsApp Image 2026-05-24 at 2 04 17 PM" src="https://github.com/user-attachments/assets/6309279f-e76c-4366-b2f9-d5eb9e13c2e8" />
 
 **PROCEDURE:**
 
@@ -78,3 +81,6 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+**result**
+THus thevenins theorem is verified.
